@@ -8,7 +8,7 @@ The game is controlled by a python game, which is used to receive the data from 
 
 The demo of this project can be checked in https://www.youtube.com/watch?v=AAMDzTGoMbw&amp;spfreload=10
 
-##Hardware : TelosB
+## Hardware : TelosB
 
 This project based on the telosb mote which is a Low Power Wireless Sensor Module, TelosB:
 
